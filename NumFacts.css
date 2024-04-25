@@ -1,0 +1,43 @@
+body{
+    background-color: #eee;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-container{
+    text-align: center;
+}
+
+.main-container{
+    text-align: center;
+}
+
+.p-container{
+    text-align: center;
+}
+
+#fact-container{
+    text-align: center;
+}
+
+button{
+    width: 150px;
+    margin: 10px auto 0 auto;
+    display: block;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+#numBtn{
+    background-color: lightblue;
+}
+
+#numFact{
+    background-color: green;
+    color: whitesmoke;
+}

@@ -1,0 +1,45 @@
+body{
+    background-color: #cc322a;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    background-color: #0abde9;
+    color: black;
+    padding: 20px 10px;
+    border: 1px solid #0abde9;
+    border-radius: 45px;
+}
+
+h2{
+    text-align: center;
+}
+
+.imgDiv{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    text-align: center;
+    white-space: none;
+}
+
+.pokedexEntry{
+    margin: 15px 0 0 25px;
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 300px;
+    height: 300px;
+    background-color: #e6d596;
+}
+
+#pokedex{
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: green;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    font-size: 18px;
+    background-color: rgb(146, 17, 36);
+    padding: 10px;
+    border: 1px solid black;
+    color: whitesmoke;
+    border-radius: 6px;
+}
+
+#table{
+    position: relative;
+}
+
+.card{
+    margin-top: 300px;
+    position: absolute;
+    left: 42%;
+}
